@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Output directories
+dist/
+build/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Playwright test results
+test-results/
+
+# Playwright screenshots and videos
+playwright-report/
+*.png
+*.webm
+*.mp4
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
